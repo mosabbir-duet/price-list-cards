@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Treadmill",
+    "price": 1000,
+    "features": ["Adjustable speed", "Incline control", "Heart rate monitor"],
+    "image": "https://images.unsplash.com/photo-1637714409323-d5e6e9731252?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Elliptical Machine",
+    "price": 1500,
+    "features": [
+      "Low-impact exercise",
+      "Adjustable resistance",
+      "Heart rate monitor"
+    ],
+    "image": "https://images.unsplash.com/photo-1672034182463-6c786ef3da7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Weight Bench",
+    "price": 500,
+    "features": [
+      "Adjustable incline",
+      "Leg extension attachment",
+      "Preacher curl attachment"
+    ],
+    "image": "https://images.unsplash.com/photo-1546483875-ad9014c88eba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=782&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Dumbbell Set",
+    "price": 200,
+    "features": [
+      "Various weight sizes",
+      "Rubberized grip",
+      "Durable construction"
+    ],
+    "image": "https://images.unsplash.com/photo-1532384555668-bc0c32a17ffd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Stationary Bike",
+    "price": 1200,
+    "features": [
+      "Adjustable seat and handlebars",
+      "Resistance levels",
+      "Heart rate monitor"
+    ],
+    "image": "https://images.unsplash.com/photo-1637714890222-435eefed5f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  }
+]
